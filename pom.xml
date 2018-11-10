@@ -26,13 +26,11 @@
 	</properties>
 
 	<dependencies>
-		<!-- spring-boot-jdbc -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-jdbc</artifactId>
 		</dependency>
-		
-		<!-- spring-boot-web-master -->
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
@@ -43,7 +41,6 @@
 			<version>1.3.2</version>
 		</dependency>
 
-		<!-- mysql-connector -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
